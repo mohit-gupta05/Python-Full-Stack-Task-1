@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": 1,
+        "name": "Mohit",
+        "age": 21,
+        "course": "BCA"
+    },
+    {
+        "student_id": 2,
+        "name": "Rahul",
+        "age": 22,
+        "course": "Python"
+    },
+    {
+        "student_id": 5,
+        "name": "Sumit",
+        "age": 21,
+        "course": "Mern Stack"
+    }
+]
